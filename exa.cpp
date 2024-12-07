@@ -17,7 +17,7 @@ public:
         for(int i=0;i<d.size();i++){
            
                 cout<<d[i]<<" ";
-          awdadasd
+          cout<<"kmgtgke";
         }
     }
 };
