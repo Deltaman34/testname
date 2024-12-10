@@ -17,14 +17,13 @@ public:
         for(int i=0;i<d.size();i++){
            
                 cout<<d[i]<<" ";
-          cout<<"kmgtgke";
         }
     }
 };
 
 int main(){
 Solution solutie;
-  int n;
+  int n,l,w,r,o;
   cin>>n;
   vector<int> heights(n);
   for(int i=0;i<n;i++) cin>>heights[i];
